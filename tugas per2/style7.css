@@ -1,0 +1,37 @@
+h1 { font-size:25pt;
+     font-style: bold;
+     color: white; 
+     text-align: center;
+     top: 1%;
+
+ 		}
+
+body {
+	background-image: url(bgmedsos.jpg);
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.back {
+	position: absolute;
+	top:  80%;
+	left: 45%;
+}
+
+.facebook {
+  position: absolute;
+  top:  40%;
+  left: 40%;
+}
+.instagram {
+  position: absolute;
+  top:  40%;
+  left: 20%;
+}
+.twitter {
+  position: absolute;
+  top:  40%;
+  left: 60%;
+}

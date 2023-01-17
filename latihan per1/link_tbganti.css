@@ -1,0 +1,26 @@
+A:link {
+        color: white;
+        text-decoration: none;
+        background-image: url ("button.gif")
+ 50% 50% no- repeat;
+        padding: 0.5em;
+        margin: 0.5em;
+        display: block;
+        }
+A:visited {
+color: white;
+text-decoration: none;
+background-image: url ("#button.gif");
+padding: 0.5em;
+margin: 0,5em;
+display: block;
+}
+A:active {
+color: white;
+background-image: url ("#button.gif");
+padding: 0.5em;
+margin: 0,5em;
+text-decoration: underline;
+color: red;
+background-image: url("#button.gif");
+}

@@ -1,0 +1,26 @@
+h1 { font-size:50pt;
+     font-style: bold;
+     color: white; 
+     text-align: center;
+ 		}
+
+
+h2{text-align: center;
+	font-size:35pt;
+     font-style: bold;
+     color: white; 
+}
+
+body {
+	background-image: url(0000.jpg);
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.button {
+	position: absolute;
+	top:  50%;
+	left: 35%;
+}

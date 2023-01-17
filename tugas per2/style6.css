@@ -1,0 +1,37 @@
+h1 { font-size:25pt;
+     font-style: bold;
+     color: blue; 
+     text-align: center;
+     top: 1%;
+
+ 		}
+
+body {
+	background-image: url(perpus.jpg);
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.back {
+	position: absolute;
+	top:  80%;
+	left: 46%;
+}
+
+.unkris {
+  position: absolute;
+  top:  40%;
+  left: 40%;
+}
+.ITB {
+  position: absolute;
+  top:  40%;
+  left: 20%;
+}
+.UNPAD {
+  position: absolute;
+  top:  40%;
+  left: 60%;
+}

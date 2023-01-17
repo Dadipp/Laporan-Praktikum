@@ -1,0 +1,35 @@
+h1 { font-size: 35pt;
+     font-style: bold;
+     color: blue; 
+     text-align: center;
+ 		}
+h2 {font-size: 18pt;
+	font-style: italic;
+	color: white;
+
+	}
+
+body {background-color: black;
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.lagu {
+	position: absolute;
+	top:  20%;
+	left: 5%;
+}
+
+.musik {
+	position: absolute;
+	top:  47%;
+	left: 30%;
+}
+
+.back {
+	position: absolute;
+	top:  70%;
+	left: 5%;
+}

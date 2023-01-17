@@ -1,0 +1,27 @@
+h1 { font-size:25pt;
+     font-style: bold;
+     color: black; 
+     text-align: center;
+     top: 1%;
+
+ 		}
+
+body {
+	background-image: url(jadwal.jpg);
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.button {
+	position: absolute;
+	top:  80%;
+	left: 45%;
+}
+
+.tbl {position: absolute;
+  top:  28%;
+  left: 25%;
+  border: 6px solid black;
+}

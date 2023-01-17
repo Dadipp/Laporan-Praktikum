@@ -1,0 +1,61 @@
+h1 { font-size: 35pt;
+     font-style: bold;
+     color: blue; 
+     text-align: center;
+ 		}
+
+body {
+	background-image: url(backgroundh1.jpg);
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.back {
+	position: absolute;
+	top:  35%;
+	left: 5%;
+}
+
+.musik {
+	position: absolute;
+	top:  25%;
+	left: 20%;
+}
+
+.tabel {
+	position: absolute;
+	top:  49%;
+	left: 20%;
+}
+
+.kalender {
+	position: absolute;
+	top:  49%;
+	left: 32%;
+}
+
+.bank {
+	position: absolute;
+	top:  25%;
+	left: 44%;
+}
+
+.univ {
+	position: absolute;
+	top:  49%;
+	left: 44%;
+}
+
+.medsos {
+	position: absolute;
+	top:  25%;
+	left: 56.6%;
+}
+
+.bio {
+	position: absolute;
+	top:  25%;
+	left: 76%;
+}

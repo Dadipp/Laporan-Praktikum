@@ -1,0 +1,37 @@
+h1 { font-size:25pt;
+     font-style: bold;
+     color: black; 
+     text-align: center;
+     top: 1%;
+
+ 		}
+
+body {
+	background-image: url(atm.jpg);
+	background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+   height: 100vh;
+        }
+
+.back {
+	position: absolute;
+	top:  38%;
+	left: 80%;
+}
+
+.BNI {
+  position: absolute;
+  top:  15%;
+  left: 30%;
+}
+.mandiri {
+  position: absolute;
+  top:  40%;
+  left: 30%;
+}
+.BCA {
+  position: absolute;
+  top:  65%;
+  left: 30%;
+}
